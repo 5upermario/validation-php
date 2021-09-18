@@ -1,5 +1,6 @@
 {
     "name": "5upermario/validation-php",
+    "description": "Validation classes for php",
     "type": "library",
     "license": "MIT",
     "scripts": {
